@@ -32,7 +32,11 @@
     "version": 95
   },
   "pages": [
-    "Calendario",
+    "Definicion del proyecto",
+    "---------",
+    "00 - Flujo",
+    "01 - Vistas",
+    "02 - Principle",
     "Referente",
     "Symbols"
   ],
