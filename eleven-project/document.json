@@ -32,7 +32,9 @@
     "version": 95
   },
   "pages": [
-    "Page 1"
+    "Calendario",
+    "Referente",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
