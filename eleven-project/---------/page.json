@@ -1,6 +1,6 @@
 {
   "_class": "page",
-  "do_objectID": "57A48313-DF1F-41AC-A664-8908EF7B1101",
+  "do_objectID": "47305280-3036-4E3B-BEC9-61DD92231DF7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,7 +21,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -235,
+    "base": -271,
     "guides": [
     ]
   },
@@ -47,7 +47,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -192,
+    "base": -298,
     "guides": [
     ]
   }

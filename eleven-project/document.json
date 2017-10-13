@@ -33,11 +33,12 @@
   },
   "pages": [
     "Definicion del proyecto",
+    "Referente",
     "---------",
-    "00 - Flujo",
+    "00 - Wireframes",
     "01 - Vistas",
     "02 - Principle",
-    "Referente",
+    "---------",
     "Symbols"
   ],
   "userInfo": {
